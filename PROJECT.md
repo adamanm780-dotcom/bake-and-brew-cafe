@@ -55,3 +55,4 @@
 
 ## Updates
 - 2026-05-27: Initial Build mit Mobile-First Design, Türkis+Matcha-Palette, 3 echten Google-Reviews, Google-Maps-Embed
+- 2026-05-27: Scroll-Frame-Animation eingebaut — 50 Frames Matcha-Whisking (Seedance 2.0 → 121 frames extrahiert auf 50, magenta chromakey #ff00ff entfernt via ffmpeg), neue Section „Whisked, not stirred" zwischen Marquee und Story. Sticky-Container fix: overflow:hidden auf .scroll-anim entfernt damit position:sticky funktioniert.
